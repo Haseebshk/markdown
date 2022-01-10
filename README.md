@@ -1,5 +1,3 @@
-# markdown
-This is markdown practice file
 #  Contents
 [Headings](#1-headings)
 
